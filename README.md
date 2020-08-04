@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-YAML         5 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   23.07 % 
-TOML         3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-TypeScript   3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-JSON         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+YAML         6 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   26.54 % 
+JavaScript   5 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+TOML         4 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.12 % 
+TypeScript   3 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Terraform    2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 <!--END_SECTION:waka-->
